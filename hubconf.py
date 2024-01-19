@@ -6,7 +6,7 @@ def get_random_dataset(n_img: int, img_size: int) -> RandomDataset:
 
 
 def get_ref():
-    return "main-tag-branch1"
+    return "main-latest"
 
 
 
